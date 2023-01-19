@@ -8,3 +8,4 @@ This repository contains books on programing topics. Current books in the reposi
 - Pro ASP.NET Core
 - Joshua Bloch - Effective Java (3rd) - 2018
 - Java - a beginner's guide Eigth edition
+- Domain driven design - Tackling complexity in the heart of software
