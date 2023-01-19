@@ -9,3 +9,4 @@ This repository contains books on programing topics. Current books in the reposi
 - Joshua Bloch - Effective Java (3rd) - 2018
 - Java - a beginner's guide Eigth edition
 - Domain driven design - Tackling complexity in the heart of software
+- Domain driven design reference - Definitions and pattern summaries.
